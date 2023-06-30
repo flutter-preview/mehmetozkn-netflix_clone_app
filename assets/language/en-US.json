@@ -1,0 +1,19 @@
+{
+    "welcome": "Welcome to My App",
+    "onBoard":{
+        "page1":
+        {"title":"Title 1","desc":"Description 1"},
+        "page2":
+        {"title":"Title 2","desc":"Description 2"},
+        "page3":
+        {"title":"Title 3","desc":"Description 3"}
+    },
+    "login": {
+        "login": "Sign In",
+        "signup": "Sign Up",
+        "email": "name@example.com",
+        "password": "Password",
+        "forgotText": "Forgot Password",
+        "dontAccount": "No Account"
+      }
+}
