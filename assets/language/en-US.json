@@ -2,11 +2,11 @@
     "welcome": "Welcome to My App",
     "onBoard":{
         "page1":
-        {"title":"Title 1","desc":"Description 1"},
+        {"title":"Trying to join Netflix?","desc":"You can't sign up for Netflix in the app. We know it's a hassle. After you're a member. You can start watching in the app."},
         "page2":
-        {"title":"Title 2","desc":"Description 2"},
+        {"title":"Watch on any device","desc":"Stream on your phone, tablet, computer and TV without paying more."},
         "page3":
-        {"title":"Title 3","desc":"Description 3"}
+        {"title":"3, 2, 1 ... Download!","desc":"Always have something to watch offline"}
     },
     "login": {
         "login": "Sign In",

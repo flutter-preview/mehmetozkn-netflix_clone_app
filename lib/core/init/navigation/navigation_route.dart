@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:netflix_clone_app/view/login/view/login_view.dart';
 
 import '../../../view/onboard/view/on_board_view.dart';
 import '../../../view/splash/view/splash_view.dart';
@@ -17,6 +18,9 @@ class NavigationRoute {
 
       case NavigationConstants.SPLASH_VIEW:
         return normalNavigate(const SplashView());
+
+      case NavigationConstants.LOGIN_VIEW:
+        return normalNavigate(const LoginView());
 
       default:
         return MaterialPageRoute(

@@ -19,7 +19,6 @@ Future<void> main() async {
       child: EasyLocalization(
         supportedLocales: LanguageManager.instance.supportedLocales,
         path: ApplicationConstants.LANG_ASSET_PATH,
-        startLocale: LanguageManager.instance.trLocale,
         child: const MyApp(),
       ),
     ),

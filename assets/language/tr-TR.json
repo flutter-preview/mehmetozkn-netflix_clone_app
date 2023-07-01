@@ -2,11 +2,11 @@
     "welcome": "Uygulamaya Hoş Geldiniz",
     "onBoard":{
         "page1":
-        {"title":"Başlık 1","desc":"Açıklama 1"},
+        {"title":"Netflix izlemeye başlamak mı istiyorsun?","desc":"Üye olmadan Netflix kullanmaya başlayamassın. Üye olduktan sonra izlemeye başlayabilirsin."},
         "page2":
-        {"title":"Başlık 2","desc":"Açıklama 2"},
+        {"title":"Herhangi bir cihazda izleyin","desc":"Daha fazla ödemeden telefonunuzda, tabletinizde, bilgisayarınızda ve TV'nizde izleyin."},
         "page3":
-        {"title":"Başlık 3","desc":"Açıklama 3"}
+        {"title":"3, 2, 1 ... İndir!","desc":"Her zaman çevrimdışı izleyecek bir şeyiniz olsun"}
     },
     "login": {
         "login": "Giriş Yap",
